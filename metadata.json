@@ -1,0 +1,7 @@
+{
+  "name": "ThyroidMLP - Hypothyroidism Diagnostic App",
+  "description": "Clinical decision support and risk prediction for hypothyroidism powered by a 25-feature PyTorch Deep MLP model with interactive biomarker analysis and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
